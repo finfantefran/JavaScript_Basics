@@ -1,3 +1,5 @@
 # JavaScript_Basics
 * HTML link for JS script
-* JS basics functions and variable declaration 
+* JS basic functions and variable declaration
+* Operators
+* Flow control
