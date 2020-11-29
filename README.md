@@ -3,3 +3,5 @@
 * JS basic functions and variable declaration
 * Operators
 * Flow control
+* while loop
+* for loop
