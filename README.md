@@ -5,3 +5,4 @@
 * Flow control
 * while loop
 * for loop
+* Functions
