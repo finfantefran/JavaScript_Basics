@@ -6,3 +6,4 @@
 * while loop
 * for loop
 * Functions
+* Arrays

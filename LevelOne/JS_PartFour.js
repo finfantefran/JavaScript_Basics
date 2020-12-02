@@ -23,10 +23,10 @@ false
 2 != 3;
 2 !== "2";
 // In JS you can compare a String and a int or a float like it was a String
-"2"==2;
+"2"==2; // true
 
 // If you dont want to distinguish between data types
-"2"===2;
+"2"===2; //false
 
 // true == 1; --> true
 // trie === 1; --> false
