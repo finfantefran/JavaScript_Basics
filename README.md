@@ -7,3 +7,4 @@
 * for loop
 * Functions
 * Arrays
+* JS Objects
